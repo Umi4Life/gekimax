@@ -5,17 +5,18 @@ generic rhythm game keypad controller with a lever
 ![gekimax](pic/gekimax.jpg)
 ![gpio-layout](pic/gpio-layout.svg)
 
-## BOM (LCSC, see [csv](lcsc/LCSC.csv) for LCSC order)
+## BOM (LCSC, also see [the csv](gekimax-pcb/gekimax.csv))
 
-| Part Name | Description | Amount |
-|---|---|---|
-| RK09L1120036 | RK09 Rotary Potentiometer | 1 |
-| 0805X7R104K101NT | 100nF Capacitor 0805 | 28 |
-| SK6812MINI-E | SMD WS2812B LED | 21 |
-| 918-418K2023S40001 | USB-C Connector | 5 |
-| RC0603FR-07220RL | 220ohm Resistor 0603 | 2 |
+| Part | Amount |
+|---|---|
+| RK09L11 Rotary Potentiometer | 1 |
+| 100nF Capacitor 0805 | 28 |
+| SK6812MINI-E LED | 21 |
+| USB-C Connector | 5 |
+| 220Ω Resistor 0603 | 2 |
+| 5.1KΩ Resistor 0603 | 2 |
 
-*RK09 potentiometer need some disassembly and modding to remove detent*
+*RK09 potentiometer may need some disassembly and modding to remove detent*
 
 ## BOM (Additional Hardware)
 
@@ -38,5 +39,5 @@ generic rhythm game keypad controller with a lever
 
 
 ## Notes
-- Uses [GP2040](https://gp2040-ce.info/) for firmware (need some manual key mapping)
+- Uses [GP2040-CE](https://gp2040-ce.info/) for firmware (need some manual key mapping)
 - PCB has some additional side leds that I couldn't get them to work
