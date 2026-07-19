@@ -13,7 +13,7 @@ generic rhythm game keypad controller with a lever
 | 100nF Capacitor 0805 | 28 |
 | SK6812MINI-E LED | 21 |
 | USB-C Connector | 5 |
-| 220Ω Resistor 0603 | 2 |
+| 220Ω Resistor 0603 | 1 |
 | 5.1KΩ Resistor 0603 | 2 |
 
 *RK09 potentiometer may need some disassembly and modding to remove detent*
