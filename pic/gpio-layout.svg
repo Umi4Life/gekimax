@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="15 -16 265 149"
+     width="4032" height="2268">
+  <style>
+    .gpio { fill: #000; font-size: 4.7px; text-anchor: middle; dominant-baseline: middle; }
+    .gpio-note { fill: #000; font-size: 3px; text-anchor: middle; dominant-baseline: middle; }
+  </style>
+
+  <rect x="0" y="0" width="290" height="112" fill="#fff"/>
+
+  <rect x="21.8" y="17.6" width="253.5" height="80" rx="7.5" ry="7.5"
+        fill="#fff" stroke="#000" stroke-width="0.5"/>
+
+  <rect x="122.9" y="51.4" width="51" height="21" rx="1"
+        fill="#fff" stroke="#000" stroke-width="0.4"/>
+
+  <circle cx="145.9" cy="41.8" r="4.5" fill="#fff" stroke="#000" stroke-width="0.4"/>
+  <text x="145.9" y="41.8" class="gpio">GP26</text>
+
+  <g id="switches">
+    <rect x="68.0" y="19.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="79.4" y="28.6" class="gpio">GP0</text>
+
+    <rect x="25.0" y="39.0" width="18.2" height="36.3" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="34.1" y="57.2" class="gpio">GP1</text>
+
+    <rect x="44.2" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="55.6" y="47.6" class="gpio">GP2</text>
+
+    <rect x="68.0" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="79.4" y="47.6" class="gpio">GP3</text>
+
+    <rect x="91.8" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="103.2" y="47.6" class="gpio">GP4</text>
+
+    <rect x="44.1" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="53.2" y="66.7" class="gpio">GP5</text>
+
+    <rect x="63.1" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="72.2" y="66.7" class="gpio">GP6</text>
+
+    <rect x="82.2" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="91.3" y="66.7" class="gpio">GP7</text>
+
+    <rect x="101.2" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="110.3" y="66.7" class="gpio">GP8</text>
+
+    <rect x="92.2" y="76.6" width="36.3" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="110.3" y="85.7" class="gpio">GP9</text>
+
+    <rect x="230.0" y="19.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="241.3" y="28.6" class="gpio">GP10</text>
+
+    <rect x="253.6" y="39.0" width="18.2" height="36.3" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="262.7" y="57.2" class="gpio">GP11</text>
+
+    <rect x="182.3" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="193.7" y="47.6" class="gpio">GP12</text>
+
+    <rect x="206.1" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="217.5" y="47.6" class="gpio">GP13</text>
+
+    <rect x="229.9" y="38.5" width="22.7" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="241.3" y="47.6" class="gpio">GP14</text>
+
+    <rect x="177.4" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="186.5" y="66.7" class="gpio">GP15</text>
+
+    <rect x="196.5" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="205.6" y="66.7" class="gpio">GP16</text>
+
+    <rect x="215.5" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="224.6" y="66.7" class="gpio">GP17</text>
+
+    <rect x="234.6" y="57.6" width="18.2" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="243.7" y="66.7" class="gpio">GP18</text>
+
+    <rect x="168.4" y="76.6" width="36.3" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="186.5" y="85.7" class="gpio">GP19</text>
+
+    <rect x="130.3" y="76.6" width="36.3" height="18.2" rx="0.5" fill="#fff" stroke="#000" stroke-width="0.35"/>
+    <text x="148.4" y="85.7" class="gpio">GP20</text>
+  </g>
+
+  <text x="148.4" y="60.5" class="gpio">GP21</text>
+  <text x="148.4" y="64.5" class="gpio-note">LED x27</text>
+</svg>
